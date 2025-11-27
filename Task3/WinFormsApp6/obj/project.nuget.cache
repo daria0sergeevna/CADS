@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kL4Siu9vSGE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\daria\\RiderProjects\\WinFormsApp6\\WinFormsApp6\\WinFormsApp6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\daria\\.nuget\\packages\\zedgraph\\5.2.1\\zedgraph.5.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
