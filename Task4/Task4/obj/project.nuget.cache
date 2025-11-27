@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "a/yjksyhyTo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\daria\\RiderProjects\\Task4\\Task4\\Task4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\daria\\.nuget\\packages\\zedgraph\\5.2.1\\zedgraph.5.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
