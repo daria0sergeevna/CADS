@@ -1,0 +1,14 @@
+C:\Users\daria\RiderProjects\Task15\Task15\bin\Debug\net9.0\Task15.exe
+C:\Users\daria\RiderProjects\Task15\Task15\bin\Debug\net9.0\Task15.deps.json
+C:\Users\daria\RiderProjects\Task15\Task15\bin\Debug\net9.0\Task15.runtimeconfig.json
+C:\Users\daria\RiderProjects\Task15\Task15\bin\Debug\net9.0\Task15.dll
+C:\Users\daria\RiderProjects\Task15\Task15\bin\Debug\net9.0\Task15.pdb
+C:\Users\daria\RiderProjects\Task15\Task15\obj\Debug\net9.0\Task15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daria\RiderProjects\Task15\Task15\obj\Debug\net9.0\Task15.AssemblyInfoInputs.cache
+C:\Users\daria\RiderProjects\Task15\Task15\obj\Debug\net9.0\Task15.AssemblyInfo.cs
+C:\Users\daria\RiderProjects\Task15\Task15\obj\Debug\net9.0\Task15.csproj.CoreCompileInputs.cache
+C:\Users\daria\RiderProjects\Task15\Task15\obj\Debug\net9.0\Task15.dll
+C:\Users\daria\RiderProjects\Task15\Task15\obj\Debug\net9.0\refint\Task15.dll
+C:\Users\daria\RiderProjects\Task15\Task15\obj\Debug\net9.0\Task15.pdb
+C:\Users\daria\RiderProjects\Task15\Task15\obj\Debug\net9.0\Task15.genruntimeconfig.cache
+C:\Users\daria\RiderProjects\Task15\Task15\obj\Debug\net9.0\ref\Task15.dll
